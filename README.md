@@ -2,7 +2,7 @@
 A server project with express from which I can download and send data about hamsters. The client side consists of the corresponding views that 
 I have created in mustache except that the client data is rendered with fetch.
 
-	- [x][GET] - http://localhost:/pair/hamster/ <-- fetching two hamsters
+- [ ] [GET] - http://localhost:/pair/hamster/ <-- fetching two hamsters
   
 - [ ] [GET] - http://localhost:/hamster/ <-- get all hamsters
 
