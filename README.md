@@ -1,5 +1,5 @@
 # hamsterwars-RESTAPI
-A server project with express from which I can download and send data about hamsters. The client side consists of the corresponding views that 
+A server-client project with express from which I can do CRUD about hamsters. The client side consists of the corresponding views that 
 I have created in mustache except that the client data is rendered with fetch.
 
 Example codes in mongodb.js, router.js and service.js
