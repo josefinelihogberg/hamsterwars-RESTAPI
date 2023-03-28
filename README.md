@@ -2,12 +2,8 @@
 A server project with express from which I can download and send data about hamsters. The client side consists of the corresponding views that 
 I have created in mustache except that the client data is rendered with fetch.
 
-- [ ] [GET] - http://localhost:/pair/hamster/ <-- fetching two hamsters
-  
-- [ ] [GET] - http://localhost:/hamster/ <-- get all hamsters
+Example codes in mongodb.js, router.js and service.js
 
- - [ ] [PUT] - http://localhost:/hamster/:id <-- creates a new vote for a hamster
- 
-- [ ] [POST] - http://localhost:/hamster/ <-- creating a new hamster
+<img width = "450" height ="400" src="https://user-images.githubusercontent.com/97985695/228375716-cfa66bd1-a2e3-4f2d-9af9-f86dc2550139.png"> <img src="https://user-images.githubusercontent.com/97985695/228375707-ef26e066-72a6-4d16-9305-375c918bbb8a.png" width = "450" height ="400">
 
-- [ ] [DELETE] - http://localhost:/hamster/:id <-- deletes a hamster
+<img src="https://user-images.githubusercontent.com/97985695/228375727-a7ac6d81-4bc1-4ce1-911d-a9839690ad5b.png" width = "600">
